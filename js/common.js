@@ -56,7 +56,7 @@ $(window).resize(function(){//窗口大小改变后重置图片坐标
 	$(".commlist").css("left",($(window).width()-$("text").width())*0.5+150);
 })
 
-var somewords = "\n*Athor:网15309-代立\n*Github:https://github.com/Tompes\n*Time:2017-6-15\n*Tip:由于没有做自适应所以在1920x1080的显示器上可以得到最好的体验哦！\n";
+var somewords = "\n*Author:网15309-代立\n*Github:https://github.com/Tompes\n*Time:2017-6-15\n*Tip:由于没有做自适应所以在1920x1080的显示器上可以得到最好的体验哦！\n";
 console.log(somewords)
 
 
