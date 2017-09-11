@@ -1,2 +1,2 @@
 # PageDesign
-It's a display type page disign .
+这是一个展示型的页面设计 .
